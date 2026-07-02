@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Jeff. 
+I'm an eletrical engineer and emerging developer.
+
+I write in TypeScript and Python, and have been dipping my toes in Go. 
+
+I'm interested in building projects related to the energy industry, professional education, environemental conservation, and local community building.
 
 <!--
 **jeffschoe/jeffschoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
