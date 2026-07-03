@@ -5,7 +5,7 @@ I write in TypeScript and Python, and have been dipping my toes in Go.
 
 I'm interested in building projects related to the energy industry, professional education, environemental conservation, and local community building.
 
-- 🛠 I’m currently working on [gymsight](https://github.com/jeffschoe/gymsight).
+- 🛠 I’m currently working on [Gymsight](https://github.com/jeffschoe/gymsight) and [Octopus LTE Signal Analyzer](https://github.com/jeffschoe/lte-analyzer).
 - 🌱 I’m currently learning:
   - Full-stack TS applications. I want get my hands on Angular to start building the frontend for [gymsight](https://github.com/jeffschoe/gymsight).
   - Python for data science.
