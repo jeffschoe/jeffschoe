@@ -9,6 +9,7 @@ I'm interested in building projects related to the energy industry, professional
 - 🌱 I’m currently learning:
   - Full-stack TS applications. I want get my hands on Angular to start building the frontend for [gymsight](https://github.com/jeffschoe/gymsight).
   - Python for data science.
+  - RAG
   - Applications of AI tooling in development and the energy industry.
 - 🎧 I’m currently listening to:
   - [Catalyst](https://www.latitudemedia.com/podcasts/catalyst/) w/ Shayle Kann, by Latitude Media
