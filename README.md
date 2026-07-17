@@ -8,7 +8,7 @@ I'm interested in building projects related to the energy industry, professional
 - 🛠 I’m currently working on [Gymsight](https://github.com/jeffschoe/gymsight) and [Octopus LTE Signal Analyzer](https://github.com/jeffschoe/lte-analyzer).
 - 🌱 I’m currently learning:
   - Full-stack TS applications. I want get my hands on Angular to start building the frontend for [gymsight](https://github.com/jeffschoe/gymsight).
-  - Python for data science.
+  - Python for data engineering.
   - RAG
   - Applications of AI tooling in development and the energy industry.
 - 🎧 I’m currently listening to:
@@ -23,7 +23,7 @@ I'm interested in building projects related to the energy industry, professional
 - 🤝 Causes I financially support:
   - [The Mozilla Foundation](https://www.mozillafoundation.org/en/)
   - [WFYI Indianapolis](https://www.wfyi.org/), Public Media (NPR & PBS)
-- 💬 Ask me about the the energy industry, EV charging, & energy efficiency.
+- 💬 Ask me about the the energy industry, EVs, & energy efficiency.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffery-schoenberger/)
 - ⚡ Fun facts:
   - I've been perfecting my homemade pizza for over 7 years and still feel like I have more to learn.
